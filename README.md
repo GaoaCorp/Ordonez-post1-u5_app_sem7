@@ -119,15 +119,15 @@ Modelar `Loading`, `Empty`, `Success` y `Error` como estados mutuamente excluyen
 
 ### Lista cargada (Success)
 
-![Lista cargada](docs/screenshots/01-success.png)
+![Lista cargada](screenshots/01-success.png)
 
 ### Pantalla de carga (Loading)
 
-![Loading](docs/screenshots/02-loading.png)
+![Loading](screenshots/02-loading.png)
 
 ### Error de red (Network)
 
-![Error de red](docs/screenshots/03-error.png)
+![Error de red](screenshots/03-error.png)
 
 ---
 
